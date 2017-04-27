@@ -19,8 +19,8 @@ This data was testing using the following Models
 
 
 ## Experiment ##
-* 1. Run the files using Jupyter notebook and include the necessary dependencies. 
-* 2. The output will display the Overall Accuracy, Precision, Recall, F1-Score
+1. Run the files using Jupyter notebook and include the necessary dependencies. 
+2. The output will display the Overall Accuracy, Precision, Recall, F1-Score
 
 ## References ##
 http://scikit-learn.org/stable/user_guide.html
